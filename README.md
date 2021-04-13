@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hussein Feras</h1>
-<h3 align="center">A DevOps Engineer from Iraq</h3>
+<h3 align="center">A DevOps and Kubernetes Engineer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=husseinferas&label=Profile%20views&color=0e75b6&style=flat" alt="husseinferas" /> </p>
 
-- 💻 I’m currently working with [IQonline Telecom](http://iqonline.com/)
+- ☸️ I'm a Certified Kubernetes Administrator [CKA](https://www.credly.com/badges/20c0f605-f966-4a1c-b6ad-f95b1a305e67)
+- 👨‍💻 I’m currently working with [IQonline Telecom](http://iqonline.com/)
 
 <br>
 
