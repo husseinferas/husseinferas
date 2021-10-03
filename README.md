@@ -5,7 +5,7 @@
 
 - ⛴ I'm a Certified Kubernetes Administrator [CKA](https://www.credly.com/badges/20c0f605-f966-4a1c-b6ad-f95b1a305e67)
 - ⛴ I'm a Certified Kubernetes Application Developer [CKAD](https://www.credly.com/badges/996f3db1-b645-42cc-ab8e-085fa4a6ee63)
-- 👨‍💻 I’m currently working with [IQonline Telecom](http://iqonline.com/)
+- 👨‍💻 I’m currently working with [IQGroup](https://iq.group/)
 
 <br>
 
