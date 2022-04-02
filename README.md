@@ -5,6 +5,7 @@
 
 - ⛴ I'm a Certified Kubernetes Administrator [CKA](https://www.credly.com/badges/20c0f605-f966-4a1c-b6ad-f95b1a305e67)
 - ⛴ I'm a Certified Kubernetes Application Developer [CKAD](https://www.credly.com/badges/996f3db1-b645-42cc-ab8e-085fa4a6ee63)
+- 🐧 I'm a Linux Foundation Certified Sysadmin [LFCS](https://www.credly.com/badges/c81046d9-8ea0-45eb-9f12-e2e284e8c655)
 
 <br>
 
