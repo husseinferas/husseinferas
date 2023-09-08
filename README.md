@@ -6,6 +6,7 @@
 - ⛴ I'm a Certified Kubernetes Administrator [CKA](https://www.credly.com/badges/20c0f605-f966-4a1c-b6ad-f95b1a305e67)
 - ⛴ I'm a Certified Kubernetes Application Developer [CKAD](https://www.credly.com/badges/996f3db1-b645-42cc-ab8e-085fa4a6ee63)
 - 🐧 I'm a Linux Foundation Certified Sysadmin [LFCS](https://www.credly.com/badges/c81046d9-8ea0-45eb-9f12-e2e284e8c655)
+- 🏗 I'm HashiCorp Certified Terraform Associate [003](https://www.credly.com/badges/0c60b16f-6447-446e-814b-a73624d87b06/public_url)
 
 <br>
 
