@@ -8,6 +8,7 @@
 - ⛴ I'm a Certified Kubernetes Security Specialist [CKS](https://www.credly.com/badges/9f23617e-4fc8-4c5c-9125-356f12b87747/public_url)
 - 🐧 I'm a Linux Foundation Certified Sysadmin [LFCS](https://www.credly.com/badges/c81046d9-8ea0-45eb-9f12-e2e284e8c655)
 - 🏗 I'm HashiCorp Certified Terraform Associate [003](https://www.credly.com/badges/0c60b16f-6447-446e-814b-a73624d87b06/public_url)
+- ☁️ I'm Certified Google Cloud Engineer [ACE](https://www.credly.com/badges/f93026d1-69d0-4ebc-bdae-47f50b40f73e)
 
 <be>
 
